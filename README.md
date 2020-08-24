@@ -1,2 +1,0 @@
-# jembot
-Anajy
